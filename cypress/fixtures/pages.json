@@ -1,0 +1,22 @@
+{
+    "Products": {
+        "title": "Products",
+        "url": "/inventory.html"
+    },
+    "Your Cart": {
+        "title": "Your Cart",
+        "url": "/cart.html"
+    },
+    "Checkout: Your Information": {
+        "title": "Checkout: Your Information",
+        "url": "/checkout-step-one.html"
+    },
+    "Checkout: Overview": {
+        "title": "Checkout: Overview",
+        "url": "/checkout-step-two.html"
+    },
+    "Checkout: Complete!": {
+        "title": "Checkout: Complete!",
+        "url": "/checkout-complete.html"
+    }
+}
